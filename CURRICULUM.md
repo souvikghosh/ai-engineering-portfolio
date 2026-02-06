@@ -12,8 +12,8 @@
 | # | Project | Key Skills | Status |
 |---|---------|------------|--------|
 | 01 | **Commit Message Generator** | API basics, CLI tools, prompt engineering | ✅ |
-| 02 | **Code Explainer CLI** | Structured outputs, code understanding | 🔄 |
-| 03 | **README Generator** | File I/O, markdown, practical automation | ⬜ |
+| 02 | **Code Explainer CLI** | Structured outputs, code understanding | ✅ |
+| 03 | **README Generator** | File I/O, markdown, practical automation | 🔄 |
 
 ---
 
@@ -64,6 +64,6 @@
 
 ## Current Progress
 
-**Now working on:** Project 02 - Code Explainer CLI
+**Now working on:** Project 03 - README Generator
 
-**Completed:** 1/12
+**Completed:** 2/12
